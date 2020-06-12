@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     91295,       1848]
-NotebookOptionsPosition[     90837,       1831]
-NotebookOutlinePosition[     91208,       1847]
-CellTagsIndexPosition[     91165,       1844]
+NotebookDataLength[     91983,       1860]
+NotebookOptionsPosition[     91522,       1843]
+NotebookOutlinePosition[     91896,       1859]
+CellTagsIndexPosition[     91853,       1856]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -683,6 +683,8 @@ MaxY]\>\""}]}], "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]",
            "\"\<\:0412\:0440\:0430\:0449\:0435\:043d\:0438\:0435\>\""}], 
           "}"}], ",", "\[IndentingNewLine]", "\t", 
          RowBox[{"-", "Pi"}], ",", "Pi", ",", "\[IndentingNewLine]", "\t", 
+         RowBox[{"Appearance", " ", "\[Rule]", " ", "\"\<Labeled\>\""}], ",", 
+         "\[IndentingNewLine]", "\t", 
          RowBox[{"ImageSize", "\[Rule]", "Medium"}]}], "}"}], ",", 
        "\[IndentingNewLine]", "\[IndentingNewLine]", "Delimiter", ",", 
        "\[IndentingNewLine]", "\[IndentingNewLine]", 
@@ -773,6 +775,8 @@ MaxY]\>\""}]}], "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]",
           RowBox[{"nx", ",", "1", ",", "\"\<\:041f\:043e \:041e\:0425\>\""}], 
           "}"}], ",", "\[IndentingNewLine]", "\t", "1", ",", "10", ",", "1", 
          ",", "\[IndentingNewLine]", "\t", 
+         RowBox[{"Appearance", " ", "\[Rule]", " ", "\"\<Labeled\>\""}], ",", 
+         "\[IndentingNewLine]", "\t", 
          RowBox[{"ImageSize", "\[Rule]", "Medium"}]}], "}"}], ",", 
        "\[IndentingNewLine]", 
        RowBox[{"{", 
@@ -781,6 +785,8 @@ MaxY]\>\""}]}], "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]",
           RowBox[{"ny", ",", "1", ",", "\"\<\:041f\:041e \:041e\:0423\>\""}], 
           "}"}], ",", "\[IndentingNewLine]", "\t", "1", ",", "10", ",", "1", 
          ",", "\[IndentingNewLine]", "\t", 
+         RowBox[{"Appearance", " ", "\[Rule]", " ", "\"\<Labeled\>\""}], ",", 
+         "\[IndentingNewLine]", "\t", 
          RowBox[{"ImageSize", "\[Rule]", "Medium"}]}], "}"}], ",", 
        "\[IndentingNewLine]", "\[IndentingNewLine]", 
        RowBox[{"Style", "[", 
@@ -822,6 +828,8 @@ MaxY]\>\""}]}], "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]",
            "\"\<\:0412\:0440\:0430\:0449\:0435\:043d\:0438\:0435\>\""}], 
           "}"}], ",", "\[IndentingNewLine]", "\t", "0", ",", 
          RowBox[{"2", "Pi"}], ",", "\[IndentingNewLine]", "\t", 
+         RowBox[{"Appearance", " ", "\[Rule]", " ", "\"\<Labeled\>\""}], ",", 
+         "\[IndentingNewLine]", "\t", 
          RowBox[{"ImageSize", "\[Rule]", "Medium"}]}], "}"}], ",", 
        "\[IndentingNewLine]", 
        RowBox[{"{", 
@@ -867,6 +875,7 @@ MaxY]\>\""}]}], "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]",
           RowBox[{
            RowBox[{
            "4", "\[Rule]", 
+            
             "\"\<\:0411\:0435\:0437 \
 \:0433\:0440\:0430\:0444\:0438\:043a\:043e\:0432\>\""}], ",", 
            "\[IndentingNewLine]", "\t", 
@@ -1817,20 +1826,23 @@ MaxY]\>\""}]}], "]"}]}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]",
    3.80097897750883*^9, 3.8009789968636475`*^9}, {3.8009790499453573`*^9, 
    3.800979055414751*^9}, {3.8009819104028163`*^9, 3.8009819387181034`*^9}, {
    3.8009820465700626`*^9, 3.8009820546752644`*^9}, {3.800983842856576*^9, 
-   3.8009839105391254`*^9}},
- CellLabel->"In[2]:=",ExpressionUUID->"0f908aa3-427e-493c-88f4-10c0d48ba71f"],
+   3.8009839105391254`*^9}, {3.8009868381298776`*^9, 
+   3.8009868487526584`*^9}, {3.800987156603814*^9, 3.800987176954006*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"0f908aa3-427e-493c-88f4-10c0d48ba71f"],
 
 Cell[BoxData[
  TemplateBox[{FrontEndObject[
-    LinkObject["76ywj_shm", 3, 1]],19,
-   "FrontEndObject[LinkObject[\"76ywj_shm\", 3, 1]]","19","\"Untitled-1\""},
+    LinkObject["trv9c_shm", 3, 1]],16,
+   "FrontEndObject[LinkObject[\"trv9c_shm\", 3, 1]]","16","\"Untitled-1\""},
   "NotebookObjectUnsaved"]], "Output",
- CellChangeTimes->{3.800983832508237*^9, 3.8009839125865316`*^9},
- CellLabel->"Out[3]=",ExpressionUUID->"3f5f5f29-ccc1-4663-810c-f2614b881c44"]
+ CellChangeTimes->{3.800983832508237*^9, 3.8009839125865316`*^9, 
+  3.8009867696551147`*^9, 3.8009871117918262`*^9, 3.800987181955566*^9, 
+  3.8009872494144697`*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"e1fd30ff-b37a-490d-bcab-b7c8386609b8"]
 }, Open  ]]
 },
 WindowSize->{958, 988},
-WindowMargins->{{-7, Automatic}, {Automatic, 0}},
+WindowMargins->{{435, Automatic}, {Automatic, 187}},
 Magnification:>1.3 Inherited,
 FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
@@ -1847,8 +1859,8 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 89896, 1798, 13351, "Input",ExpressionUUID->"0f908aa3-427e-493c-88f4-10c0d48ba71f"],
-Cell[90479, 1822, 342, 6, 65, "Output",ExpressionUUID->"3f5f5f29-ccc1-4663-810c-f2614b881c44"]
+Cell[580, 22, 90481, 1808, 13539, "Input",ExpressionUUID->"0f908aa3-427e-493c-88f4-10c0d48ba71f"],
+Cell[91064, 1832, 442, 8, 98, "Output",ExpressionUUID->"e1fd30ff-b37a-490d-bcab-b7c8386609b8"]
 }, Open  ]]
 }
 ]

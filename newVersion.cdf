@@ -23,10 +23,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[      1088,         20]
-NotebookDataLength[     38920,        751]
-NotebookOptionsPosition[     39541,        751]
-NotebookOutlinePosition[     39884,        766]
-CellTagsIndexPosition[     39841,        763]
+NotebookDataLength[     39039,        751]
+NotebookOptionsPosition[     39660,        751]
+NotebookOutlinePosition[     40003,        766]
+CellTagsIndexPosition[     39960,        763]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -38,13 +38,13 @@ Cell[BoxData[
     0.1, $CellContext`axisframe$$ = 3, $CellContext`every1$$ = 
     0.01, $CellContext`every2$$ = 20, $CellContext`externalshaperotation$$ = 
     Rational[1, 4] Pi, $CellContext`int$$ = 0.1, $CellContext`int2$$ = 
-    50, $CellContext`l$$ = 380, $CellContext`latticetype$$ = 
+    50, $CellContext`l$$ = 560, $CellContext`latticetype$$ = 
     1, $CellContext`logbrightnessscaling$$ = 
     1, $CellContext`loggridspacingx$$ = -0.5, $CellContext`loggridspacingy$$ \
 = -0.5, $CellContext`logintensity$$ = 
     False, $CellContext`logradius$$ = {-1, -1}, $CellContext`nx$$ = 
     1, $CellContext`ny$$ = 1, $CellContext`pluszerozero$$ = 
-    False, $CellContext`rotation$$ = 0, $CellContext`type$$ = 4, 
+    False, $CellContext`rotation$$ = 0, $CellContext`type$$ = 16, 
     Typeset`show$$ = True, Typeset`bookmarkList$$ = {}, 
     Typeset`bookmarkMode$$ = "Menu", Typeset`animator$$, Typeset`animvar$$ = 
     1, Typeset`name$$ = "\"untitled\"", Typeset`specs$$ = {{
@@ -178,15 +178,15 @@ Cell[BoxData[
 \:0435\:0436\:0434\:0443 \:0434\:0435\:043b\:0435\:043d\:0438\:043c\:0438 \
 \:043d\:0430 OX"}, 5, 50, 1}}, Typeset`size$$ = {768., {381., 387.}}, 
     Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = 
-    False, $CellContext`type$5266$$ = False, $CellContext`logradius$5267$$ = {
-    0, 0}, $CellContext`annulusthickness$5268$$ = 
-    0, $CellContext`externalshaperotation$5269$$ = 
-    0, $CellContext`latticetype$5270$$ = 
-    False, $CellContext`pluszerozero$5271$$ = False, $CellContext`nx$5272$$ = 
-    0, $CellContext`ny$5273$$ = 0, $CellContext`loggridspacingx$5274$$ = 
-    0, $CellContext`loggridspacingy$5275$$ = 0, $CellContext`rotation$5276$$ =
-     0, $CellContext`logintensity$5277$$ = 
-    False, $CellContext`logbrightnessscaling$5278$$ = 0}, 
+    False, $CellContext`type$2356$$ = False, $CellContext`logradius$2361$$ = {
+    0, 0}, $CellContext`annulusthickness$2362$$ = 
+    0, $CellContext`externalshaperotation$2363$$ = 
+    0, $CellContext`latticetype$2364$$ = 
+    False, $CellContext`pluszerozero$2365$$ = False, $CellContext`nx$2366$$ = 
+    0, $CellContext`ny$2367$$ = 0, $CellContext`loggridspacingx$2368$$ = 
+    0, $CellContext`loggridspacingy$2369$$ = 0, $CellContext`rotation$2370$$ =
+     0, $CellContext`logintensity$2371$$ = 
+    False, $CellContext`logbrightnessscaling$2372$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
       "Variables" :> {$CellContext`annulusthickness$$ = 
@@ -202,27 +202,27 @@ $CellContext`loggridspacingy$$ = -0.5, $CellContext`logintensity$$ =
         1, $CellContext`ny$$ = 1, $CellContext`pluszerozero$$ = 
         False, $CellContext`rotation$$ = 0, $CellContext`type$$ = 16}, 
       "ControllerVariables" :> {
-        Hold[$CellContext`type$$, $CellContext`type$5266$$, False], 
-        Hold[$CellContext`logradius$$, $CellContext`logradius$5267$$, {0, 0}], 
+        Hold[$CellContext`type$$, $CellContext`type$2356$$, False], 
+        Hold[$CellContext`logradius$$, $CellContext`logradius$2361$$, {0, 0}], 
         Hold[$CellContext`annulusthickness$$, \
-$CellContext`annulusthickness$5268$$, 0], 
+$CellContext`annulusthickness$2362$$, 0], 
         Hold[$CellContext`externalshaperotation$$, \
-$CellContext`externalshaperotation$5269$$, 0], 
-        Hold[$CellContext`latticetype$$, $CellContext`latticetype$5270$$, 
+$CellContext`externalshaperotation$2363$$, 0], 
+        Hold[$CellContext`latticetype$$, $CellContext`latticetype$2364$$, 
          False], 
-        Hold[$CellContext`pluszerozero$$, $CellContext`pluszerozero$5271$$, 
+        Hold[$CellContext`pluszerozero$$, $CellContext`pluszerozero$2365$$, 
          False], 
-        Hold[$CellContext`nx$$, $CellContext`nx$5272$$, 0], 
-        Hold[$CellContext`ny$$, $CellContext`ny$5273$$, 0], 
+        Hold[$CellContext`nx$$, $CellContext`nx$2366$$, 0], 
+        Hold[$CellContext`ny$$, $CellContext`ny$2367$$, 0], 
         Hold[$CellContext`loggridspacingx$$, \
-$CellContext`loggridspacingx$5274$$, 0], 
+$CellContext`loggridspacingx$2368$$, 0], 
         Hold[$CellContext`loggridspacingy$$, \
-$CellContext`loggridspacingy$5275$$, 0], 
-        Hold[$CellContext`rotation$$, $CellContext`rotation$5276$$, 0], 
-        Hold[$CellContext`logintensity$$, $CellContext`logintensity$5277$$, 
+$CellContext`loggridspacingy$2369$$, 0], 
+        Hold[$CellContext`rotation$$, $CellContext`rotation$2370$$, 0], 
+        Hold[$CellContext`logintensity$$, $CellContext`logintensity$2371$$, 
          False], 
         Hold[$CellContext`logbrightnessscaling$$, \
-$CellContext`logbrightnessscaling$5278$$, 0]}, 
+$CellContext`logbrightnessscaling$2372$$, 0]}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -424,7 +424,7 @@ $CellContext`m2$}}, ImageSize -> {2, 2} $CellContext`resolution 1.5,
          ImageSize -> 
          Medium}, {{$CellContext`externalshaperotation$$, Rational[1, 4] Pi, 
           "\:0412\:0440\:0430\:0449\:0435\:043d\:0438\:0435"}, -Pi, Pi, 
-         ImageSize -> Medium}, Delimiter, 
+         Appearance -> "Labeled", ImageSize -> Medium}, Delimiter, 
         Style[
         "\:041d\:0430\:0441\:0442\:0440\:043e\:0439\:043a\:0438 \:0440\:0430\
 \:0441\:043f\:043e\:043b\:043e\:0436\:0435\:043d\:0438\:044f", Bold, 
@@ -459,9 +459,9 @@ $CellContext`m2$}}, ImageSize -> {2, 2} $CellContext`resolution 1.5,
 \:043e\:0442\:0432\:0435\:0440\:0441\:0442\:0438\:0435"}, {True, False}, 
          ImageSize -> 
          Medium}, {{$CellContext`nx$$, 1, "\:041f\:043e \:041e\:0425"}, 1, 10,
-          1, ImageSize -> 
+          1, Appearance -> "Labeled", ImageSize -> 
          Medium}, {{$CellContext`ny$$, 1, "\:041f\:041e \:041e\:0423"}, 1, 10,
-          1, ImageSize -> Medium}, 
+          1, Appearance -> "Labeled", ImageSize -> Medium}, 
         Style[
         "\:0420\:0430\:0441\:043f\:043e\:043b\:043e\:0436\:0435\:043d\:0438\
 \:0435", Bold, 
@@ -476,7 +476,7 @@ $CellContext`m2$}}, ImageSize -> {2, 2} $CellContext`resolution 1.5,
 \:0439\:043a\:0438", Bold, 
          20], {{$CellContext`rotation$$, 0, 
           "\:0412\:0440\:0430\:0449\:0435\:043d\:0438\:0435"}, 0, 2 Pi, 
-         ImageSize -> 
+         Appearance -> "Labeled", ImageSize -> 
          Medium}, {{$CellContext`logintensity$$, False, 
           "\:041b\:043e\:0433\:0430\:0440\:0438\:0444\:043c\:0438\:0440\:043e\
 \:0432\:0430\:043d\:0438\:0435 \:0438\:043d\:0442\:0435\:043d\:0441\:0438\
@@ -517,7 +517,7 @@ $CellContext`m2$}}, ImageSize -> {2, 2} $CellContext`resolution 1.5,
 \:0438 \:043d\:0430 OX"}, 5, 50, 1, Appearance -> "Labeled"}}, 
       "Options" :> {TrackedSymbols -> True, ControlPlacement -> Left}, 
       "DefaultOptions" :> {}],
-     ImageSizeCache->{1286., {414., 420.}},
+     ImageSizeCache->{1256., {438., 444.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -613,34 +613,34 @@ $CellContext`position],
          Switch[$CellContext`type, 3, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Triangle]]], 4, 
+             $CellContext`Vertices[Polytopes`Triangle]]], 4, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Square]]], 5, 
+             $CellContext`Vertices[Polytopes`Square]]], 5, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Pentagon]]], 6, 
+             $CellContext`Vertices[Polytopes`Pentagon]]], 6, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Hexagon]]], 7, 
+             $CellContext`Vertices[Polytopes`Hexagon]]], 7, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Heptagon]]], 8, 
+             $CellContext`Vertices[Polytopes`Heptagon]]], 8, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Octagon]]], 9, 
+             $CellContext`Vertices[Polytopes`Octagon]]], 9, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Nonagon]]], 10, 
+             $CellContext`Vertices[Polytopes`Nonagon]]], 10, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Decagon]]], 11, 
+             $CellContext`Vertices[Polytopes`Decagon]]], 11, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Undecagon]]], 12, 
+             $CellContext`Vertices[Polytopes`Undecagon]]], 12, 
            Polygon[
             $CellContext`trafo[
-             Polytopes`Vertices[Polytopes`Dodecagon]]], 16, 
+             $CellContext`Vertices[Polytopes`Dodecagon]]], 16, 
            GeometricTransformation[
             Disk[], $CellContext`trafo], 15, 
            GeometricTransformation[{
@@ -705,12 +705,12 @@ $CellContext`latticetype =
             10, Polytopes`Decagon, 11, Polytopes`Undecagon, 12, 
             Polytopes`Dodecagon]; $CellContext`points = 
           If[$CellContext`pluszerozero, 
+            ConstantArray[$CellContext`gridspacing, \
+$CellContext`NumberOfVertices[$CellContext`latticetype] + 1] Append[
+              $CellContext`Vertices[$CellContext`latticetype], {0, 0}], 
             ConstantArray[$CellContext`gridspacing, 
-              Polytopes`NumberOfVertices[$CellContext`latticetype] + 1] Append[
-              Polytopes`Vertices[$CellContext`latticetype], {0, 0}], 
-            ConstantArray[$CellContext`gridspacing, 
-              Polytopes`NumberOfVertices[$CellContext`latticetype]] 
-            Polytopes`Vertices[$CellContext`latticetype]]; Table[
+              $CellContext`NumberOfVertices[$CellContext`latticetype]] \
+$CellContext`Vertices[$CellContext`latticetype]]; Table[
            $CellContext`shape[$CellContext`type, $CellContext`p, \
 $CellContext`radius, $CellContext`externalshaperotation, \
 $CellContext`annulusthickness], {$CellContext`p, $CellContext`points}]]; \
@@ -746,11 +746,11 @@ $CellContext`gsc[
     UntrackedVariables:>{Typeset`size$$}], "Manipulate",
    Deployed->True,
    StripOnInput->False],
-  Manipulate`InterpretManipulate[1]]],ExpressionUUID->"3f5597f1-b2da-41b5-\
-8559-204d5ad37aaa"]
+  Manipulate`InterpretManipulate[1]]],ExpressionUUID->"6323b125-71a2-40c1-\
+817a-5e07c702414b"]
 },
-WindowSize->{1920, 997},
-WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+WindowSize->{775, 872},
+WindowMargins->{{564, Automatic}, {Automatic, 54}},
 FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
 ]
@@ -765,11 +765,11 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[1488, 33, 38049, 716, 844, InheritFromParent,ExpressionUUID->"3f5597f1-b2da-41b5-8559-204d5ad37aaa"]
+Cell[1488, 33, 38168, 716, 892, InheritFromParent,ExpressionUUID->"6323b125-71a2-40c1-817a-5e07c702414b"]
 }
 ]
 *)
 
 (* End of internal cache information *)
 
-(* NotebookSignature kvT7tBna@#PiFDw4sMkPvHeq *)
+(* NotebookSignature hw0HowgRtbkGoDwXAEuXQ1ex *)
